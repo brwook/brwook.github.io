@@ -77,17 +77,18 @@ order: 4
 **2023**
 - **2023 HackTheon Sejong 41th** (Team. S!) 
 - **Incognito CTF 2022 5th** [50,000 Won]
-- **DamCTF 2023 16th** (Team. Security Factorial)
+- DamCTF 2023 16th (Team. Security Factorial)
 - **BSidesSF CTF 2023 5th** (Team. Security Factorial)
-- **TAMUctf 2023 38th** (Team. Security Factorial)
+- TAMUctf 2023 38th (Team. Security Factorial)
 - **2023 HackTheon Sejong 28th** (Team. Security Factorial)
-- **BYUCTF 2023 12th** (Team. Security Factorial)
-- **DanteCTF 2023 28th** (Team. Security Factorial)
+- BYUCTF 2023 12th (Team. Security Factorial)
+- DanteCTF 2023 28th (Team. Security Factorial)
+- **Cyber Conflict Exercise 2023 23th** (Team. Security Factorial)
 
 **2022**
 - **Codegate CTF 2022 Preliminary 11th** (Team. SecurityFactorial)
 - **LINE CTF 2022 18th** (Team. SecurityFactorial)
-- **UACTF 2022 14th** (Team. brwook)
+- UACTF 2022 14th (Team. brwook)
 - **Hacker's Playground 2022 12th** (Team. Security Factorial)
 - **Dreamhack CTF Season 2 Round #7 2nd**
 - **2022 Christmas CTF 6th** (Team. 상금이 받고 싶어요)
