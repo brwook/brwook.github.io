@@ -11,7 +11,7 @@ order: 4
 {: .prompt-tip }
 
 - Email : dnguq13@sju.ac.kr
-- Discord : brwook#4525
+- Discord : brwook
 
 # **Education** 
 
@@ -36,7 +36,8 @@ order: 4
 
 --- 
 
-- **Development of Endpoint Security System Using BPF** (Team. Axolotl \| Mar. 2023 ~ Current)
+- **Development of Endpoint Security System Using BPF** (Team. Axolotl \| Mar. 2023 ~ June. 2023)
+  - BPFocus: System Inspection Tools with BPF ([Github](https://github.com/Capstone-Axolotl/BPFocus))
 - **Fuzzing Learning and eBook Software Vulnerability Analysis** (Team. Security Factorial \| Jan. 2023 ~ Mar. 2023)
   - found 2 vulnerabilities (Denial of Service in PDF, EPUB Reader)
 - **Virtual Machine Software Vulnerability Analysis** (Team. Security Factorial \| Apr. 2022 ~ Oct. 2022)
@@ -64,7 +65,7 @@ order: 4
 
 ---
 
-- 2023 CodeEngn Conference 19, "Serverless 서비스 취약점 분석" (23. 7. 3. expected) - [link](https://codeengn.com/conference/19)
+- 2023 CodeEngn Conference 19, "Find vulnerability in Major Cloud Serverless platform" (23. 7. 3. expected) - [link](https://codeengn.com/conference/19)
 
 - Incognito 2022 Conference, "Fuzzing 학습 및 eBook Reader 취약점 분석" (23. 3. 26.) - [link](https://www.facebook.com/photo?fbid=693615019228036&set=pcb.693615295894675)
 
@@ -76,27 +77,28 @@ order: 4
 
 **2023**
 - **2023 HackTheon Sejong 41th** (Team. S!) 
-- **Incognito CTF 2022 5th** [50,000 Won]
+- **Incognito CTF 2022 5th** (Indv.) [50,000 Won]
 - DamCTF 2023 16th (Team. Security Factorial)
-- **BSidesSF CTF 2023 5th** (Team. Security Factorial)
+- BSidesSF CTF 2023 5th (Team. Security Factorial)
 - TAMUctf 2023 38th (Team. Security Factorial)
 - **2023 HackTheon Sejong 28th** (Team. Security Factorial)
 - BYUCTF 2023 12th (Team. Security Factorial)
 - DanteCTF 2023 28th (Team. Security Factorial)
-- **Cyber Conflict Exercise 2023 23th** (Team. Security Factorial)
+- Cyber Conflict Exercise 2023 23th (Team. Security Factorial)
+- **Codegate CTF 2023 Preliminary 11th** (Team. Security Factorial)
 
 **2022**
-- **Codegate CTF 2022 Preliminary 11th** (Team. SecurityFactorial)
-- **LINE CTF 2022 18th** (Team. SecurityFactorial)
+- Codegate CTF 2022 Preliminary 11th (Team. SecurityFactorial)
+- LINE CTF 2022 18th (Team. SecurityFactorial)
 - UACTF 2022 14th (Team. brwook)
-- **Hacker's Playground 2022 12th** (Team. Security Factorial)
-- **Dreamhack CTF Season 2 Round #7 2nd**
-- **2022 Christmas CTF 6th** (Team. 상금이 받고 싶어요)
+- Hacker's Playground 2022 12th (Team. Security Factorial)
+- **Dreamhack CTF Season 2 Round #7 2nd** (Indv.)
+- 2022 Christmas CTF 6th (Team. 상금이 받고 싶어요)
 
 **2021**
 
-- **Hacker's Playground 2021 10th** (Team. 상금이 타고 싶어요)
+- Hacker's Playground 2021 10th (Team. 상금이 타고 싶어요)
 
 **2020**
 
-- **Christmas 2020 CTF 25th** (Team. 상금을 받고 싶어요)
+- Christmas 2020 CTF 25th (Team. 상금을 받고 싶어요)
