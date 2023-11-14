@@ -10,7 +10,7 @@ order: 4
 > I wanna be a **cloud security researcher**. 
 {: .prompt-tip }
 
-- Email : dnguq13@sju.ac.kr
+- Email : brwook@naver.com
 - Discord : brwook
 
 # **Education** 
@@ -78,14 +78,13 @@ order: 4
 **2023**
 - **2023 HackTheon Sejong 41th** (Team. S!) 
 - **Incognito CTF 2022 5th** (Indv.) [50,000 Won]
-- DamCTF 2023 16th (Team. Security Factorial)
 - BSidesSF CTF 2023 5th (Team. Security Factorial)
-- TAMUctf 2023 38th (Team. Security Factorial)
 - **2023 HackTheon Sejong 28th** (Team. Security Factorial)
 - BYUCTF 2023 12th (Team. Security Factorial)
-- DanteCTF 2023 28th (Team. Security Factorial)
 - Cyber Conflict Exercise 2023 23th (Team. Security Factorial)
 - **Codegate CTF 2023 Preliminary 11th** (Team. Security Factorial)
+- BuckeyeCTF 2023 8th (Team. mov.cr3)
+- ISITDTU CTF 2023 Quals 16th (Team. mov.cr3)
 
 **2022**
 - Codegate CTF 2022 Preliminary 11th (Team. SecurityFactorial)
