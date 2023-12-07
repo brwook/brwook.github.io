@@ -83,8 +83,13 @@ order: 4
 - BYUCTF 2023 12th (Team. Security Factorial)
 - Cyber Conflict Exercise 2023 23th (Team. Security Factorial)
 - **Codegate CTF 2023 Preliminary 11th** (Team. Security Factorial)
+- **Codegate CTF 2023 Final 6th** (Team. Security Factorial)
 - BuckeyeCTF 2023 8th (Team. mov.cr3)
 - ISITDTU CTF 2023 Quals 16th (Team. mov.cr3)
+- DefCamp Capture the Flag (D-CTF) 2023 Quals 19th (Team. mov.cr3)
+- CakeCTF 2023 16th (Team. mov.cr3)
+- **2023 INC0GNITO CTF Qual 1th** (Team. Security Factorial)
+- **2023 Layer7 CTF 2th** (Indv.) [⌨️ COX CK01 PBT Keyboards]
 
 **2022**
 - Codegate CTF 2022 Preliminary 11th (Team. SecurityFactorial)
@@ -100,4 +105,4 @@ order: 4
 
 **2020**
 
-- Christmas 2020 CTF 25th (Team. 상금을 받고 싶어요)
+- Christmas 2020 CTF 25th (Team. 상금을 받고 싶어요) [50,000 Won]
