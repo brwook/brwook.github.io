@@ -6,10 +6,6 @@ order: 4
 
 # **Woohyeop Im (a.k.a. brwook)**
 
-> Hello, I'm from South Korea.
-> I wanna be a **cloud security researcher**. 
-{: .prompt-tip }
-
 - Email : brwook@naver.com
 - Discord : brwook
 
@@ -17,9 +13,11 @@ order: 4
 
 ---
 
-- **B.S. in Computer & Information Security** (Mar. 2020 ~ Present)
+- **M.S. in Computer Science and Engineering** (Mar. 2024 ~ Present)
+  - Kyung Hee University at Gyeonggi-do, Korea
+
+- **B.S. in Computer & Information Security** (Mar. 2020 ~ Feb. 2024)
   - Sejong University at Seoul, Korea
-  - GPA : 4.25 / 4.5
 
 # **Experiences**
 
@@ -27,7 +25,7 @@ order: 4
 
 - **Security Engineer** (AI Spera \| Jan. 2023 ~ Feb. 2023)
   - Cyber Threat Inteligence
-  - Developed "Domain Search"(AI Spera Service) assisting Daemon in Python
+  - Developed a daemon assisting Domain Search Service
 
 - **Vulnerability Analysis Trainee** (Best of the Best 10th, KITRI \| Sep. 2021 ~ Mar. 2022)
   - RDP Protocol Fuzzing, CloudGoat, Advanced Web Application Hacking, etc.
@@ -44,13 +42,6 @@ order: 4
 - **Serverless Vulnerability Analysis** (Team. GRoomPang \| Sep. 2021 ~ Dec. 2021)
   - Container Escape in Azure Container Instances ([blog](https://groompang.github.io/2022/09/18/azure-escape-en/))
 
-# **Skills** 
-
----
-
-- **Programming**: C, C++, Python
-- **TOEIC**: 750 / 990 (Taken in 2022)
-
 # Awards
 
 ---
@@ -65,7 +56,7 @@ order: 4
 
 ---
 
-- 2023 CodeEngn Conference 19, "Find vulnerability in Major Cloud Serverless platform" (23. 7. 3. expected) - [link](https://codeengn.com/conference/19)
+- 2023 CodeEngn Conference 19, "Find vulnerability in Major Cloud Serverless platform" (23. 7. 3.) - [link](https://codeengn.com/conference/19)
 
 - Incognito 2022 Conference, "Fuzzing 학습 및 eBook Reader 취약점 분석" (23. 3. 26.) - [link](https://www.facebook.com/photo?fbid=693615019228036&set=pcb.693615295894675)
 
@@ -75,34 +66,31 @@ order: 4
 
 ---
 
+**2024**
+- Cyber Conflict Exercise 2024 Quals / 12th (Team. Security Factorial)
+- Codegate CTF 2024 Preliminary / 37th (Team. 경희대미남해커들)
+- Dreamhack Invitational 2024 Finals / 13th (Indiv.)
+- COMPFEST CTF 2024 / 🥈 (Team. epic merger)
+- ASIS CTF Quals 2024 / 🥈 (Team. epic merger)
+
 **2023**
-- **2023 HackTheon Sejong 41th** (Team. S!) 
-- **Incognito CTF 2022 5th** (Indv.) [50,000 Won]
-- BSidesSF CTF 2023 5th (Team. Security Factorial)
-- **2023 HackTheon Sejong 28th** (Team. Security Factorial)
-- BYUCTF 2023 12th (Team. Security Factorial)
-- Cyber Conflict Exercise 2023 23th (Team. Security Factorial)
-- **Codegate CTF 2023 Preliminary 11th** (Team. Security Factorial)
-- **Codegate CTF 2023 Final 6th** (Team. Security Factorial)
-- BuckeyeCTF 2023 8th (Team. mov.cr3)
-- ISITDTU CTF 2023 Quals 16th (Team. mov.cr3)
-- DefCamp Capture the Flag (D-CTF) 2023 Quals 19th (Team. mov.cr3)
-- CakeCTF 2023 16th (Team. mov.cr3)
-- **2023 INC0GNITO CTF Qual 1th** (Team. Security Factorial)
-- **2023 Layer7 CTF 2th** (Indv.) [⌨️ COX CK01 PBT Keyboards]
+- Cyber Conflict Exercise 2023 Quals / 23th (Team. Security Factorial)
+- **Codegate CTF 2023 Preliminary / 11th** (Team. Security Factorial)
+- **Codegate CTF 2023 Final / 6th** (Team. Security Factorial)
+- ISITDTU CTF 2023 Finals / 7th (Team. cr3.mov)
+- 2023 Layer7 CTF / 🥈 (Indiv.) [⌨️ COX CK01 PBT Keyboards]
 
 **2022**
-- Codegate CTF 2022 Preliminary 11th (Team. SecurityFactorial)
-- LINE CTF 2022 18th (Team. SecurityFactorial)
-- UACTF 2022 14th (Team. brwook)
-- Hacker's Playground 2022 12th (Team. Security Factorial)
-- **Dreamhack CTF Season 2 Round #7 2nd** (Indv.)
-- 2022 Christmas CTF 6th (Team. 상금이 받고 싶어요)
+- Codegate CTF 2022 Preliminary / 11th (Team. SecurityFactorial)
+- LINE CTF 2022 / 18th (Team. SecurityFactorial)
+- Hacker's Playground 2022 / 12th (Team. Security Factorial)
+- Dreamhack CTF Season 2 Round #7 / 🥈 (Indiv.)
+- 2022 Christmas CTF / 6th (Team. 상금이 받고 싶어요)
 
 **2021**
 
-- Hacker's Playground 2021 10th (Team. 상금이 타고 싶어요)
+- Hacker's Playground 2021 / 10th (Team. 상금이 타고 싶어요)
 
 **2020**
 
-- Christmas 2020 CTF 25th (Team. 상금을 받고 싶어요) [50,000 Won]
+- Christmas 2020 CTF / 25th (Team. 상금을 받고 싶어요) [50,000 Won]
