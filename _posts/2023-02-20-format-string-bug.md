@@ -4,6 +4,7 @@ title: "Format String Bug (FSB) - Basic"
 date: 2023-02-20 02:16:00 +0900
 categories: [Security, System Hacking]
 tags: [pwnable, linux, FSB]
+media_subpath: /assets/img/
 ---
 
 예전에 동아리에서 강의하던 PPT를 참고해서, 포맷 스트링 버그 취약점 관련해서 정리를 한 번 해 보았다.

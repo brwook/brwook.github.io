@@ -4,6 +4,7 @@ title: LINE CTF 2022 - call of fake
 date: 2022-04-17 13:55:00 +0900
 categories: [Security, CTF]
 tags: [c++, pwnable, BOF, virtual function, security factorial]
+media_subpath: /assets/img/
 ---
 
 ![rank](0417-LINE-calloffake-writeup/01-rank.png)

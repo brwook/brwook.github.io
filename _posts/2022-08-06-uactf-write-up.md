@@ -4,6 +4,7 @@ title: UACTF 2022 write-up
 date: 2022-08-06 09:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
+media_subpath: /assets/img/
 ---
 
 ![rank](0806-uactf-writeup/01-rank.png)

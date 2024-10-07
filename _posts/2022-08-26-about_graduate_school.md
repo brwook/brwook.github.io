@@ -4,6 +4,7 @@ title: 정보보호대학원과 정보보호병, 어느 선택을 할까?
 date: 2022-08-26 21:35:00 +0900
 categories: [Life]
 tags: [graduate school, military]
+media_subpath: /assets/img/
 ---
 
 ![rank](0826-about-graduate-school/1_book.jpg){: width="50%" height="50%"}

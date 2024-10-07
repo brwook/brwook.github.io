@@ -4,6 +4,7 @@ title: "[Fuzzing101] Exercise 1 - Xpdf"
 date: 2023-01-31 11:35:00 +0900
 categories: [Security, Fuzzing]
 tags: [afl, fuzzing]
+media_subpath: /assets/img/
 ---
 
 ![result](2023-01-31-fuzzing/1_result.png)

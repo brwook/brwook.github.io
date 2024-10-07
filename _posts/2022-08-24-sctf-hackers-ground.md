@@ -4,6 +4,7 @@ title: SCTF 2022 write-up
 date: 2022-08-24 23:10:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
+media_subpath: /assets/img/
 ---
 
 ![rank](0824-sctf-writeup/01-rank.png){: width="50%" height="50%"}

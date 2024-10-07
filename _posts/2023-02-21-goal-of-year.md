@@ -4,6 +4,7 @@ title: "2023년 계획"
 date: 2023-02-21 00:12:00 +0900
 categories: [Life]
 tags: [military, security]
+media_subpath: /assets/img/
 ---
 ![rabbit](2023-02-21-goal/aneta-voborilova-k22-ZwNRvBM-unsplash.jpg){: width="50%" height="50%"}
 

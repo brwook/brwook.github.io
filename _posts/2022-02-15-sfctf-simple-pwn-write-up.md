@@ -4,6 +4,7 @@ title: SFCTF 2022 Winter - simple_pwn
 date: 2022-02-15 21:06:00 +0900
 categories: [Security, CTF]
 tags: [security factorial, pwnable, return2csu, sfctf]
+media_subpath: /assets/img/
 ---
 
 

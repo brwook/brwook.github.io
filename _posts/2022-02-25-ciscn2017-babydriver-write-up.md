@@ -4,6 +4,7 @@ title: CISCN 2017 Winter - babydriver
 date: 2022-02-25 06:00:00 +0900
 categories: [Security, CTF]
 tags: [pwnable, linux, kernel, UAF]
+media_subpath: /assets/img/
 ---
 
 

@@ -4,6 +4,7 @@ title: "IDA switch문이 jmp rax로 최적화되었을 때 해결법"
 date: 2023-02-28 09:00:00 +0900
 categories: [Security, System Hacking]
 tags: [pwnable, trouble shooting]
+media_subpath: /assets/img/
 ---
 
 ![cover](2023-02-28-ida/dominik-vanyi-5Fxuo7x-eyg-unsplash.jpg){: width="50%" height="50%"}

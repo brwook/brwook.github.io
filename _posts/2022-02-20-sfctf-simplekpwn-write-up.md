@@ -4,6 +4,7 @@ title: SFCTF 2022 Winter - simple_kpwn
 date: 2022-02-20 08:00:00 +0900
 categories: [Security, CTF]
 tags: [security factorial, pwnable, linux, sfctf, kernel]
+media_subpath: /assets/img/
 ---
 
 

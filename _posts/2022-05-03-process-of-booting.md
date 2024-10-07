@@ -4,6 +4,7 @@ title: Linux Kernel - PC 부팅 과정
 date: 2022-05-03 18:01:00 +0900
 categories: [Security, Kernel]
 tags: [kernel, bios, booting]
+media_subpath: /assets/img/
 ---
 
 ![booting](0503-process-of-booting/01-booting.jpg){: width="50%" height="50%"}

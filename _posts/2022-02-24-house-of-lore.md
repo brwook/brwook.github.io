@@ -4,6 +4,7 @@ title: Heap Exploit - House of Lore (a.k.a. Smallbin attack)
 date: 2022-02-24 13:13:00 +0900
 categories: [Security, System Hacking]
 tags: [pwnable, heap, smallbin]
+media_subpath: /assets/img/
 ---
 
 ## **House of Lore**
