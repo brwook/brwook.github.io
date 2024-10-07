@@ -235,7 +235,7 @@ int main () {
 
 
 
-## **2. chains (17 solves)**
+## **2. chains (14 solves)**
 
 **[0x01] Summary**
 
