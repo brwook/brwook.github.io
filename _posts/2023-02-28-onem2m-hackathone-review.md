@@ -4,7 +4,7 @@ title: "제6회 KETI 모비우스 국제 개발자 대회 후기"
 date: 2023-02-28 19:00:00 +0900
 categories: [Review]
 tags: [oneM2M, hackathon, review]
-img_path: 2023-02-28-onem2m
+media_subpath: /assets/img/2023-02-28-onem2m
 ---
 
 ![onem2m2](onem2m8.jpg)

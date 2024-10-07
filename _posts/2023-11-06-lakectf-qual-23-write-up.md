@@ -4,7 +4,7 @@ title: "LakeCTF Quals 23 - not malloc Write up"
 date: 2023-11-06 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
-img_path: 20231106_LakeCTF-Quals-23_write-up
+media_subpath: /assets/img/20231106_LakeCTF-Quals-23_write-up
 image: 1.png
 ---
 

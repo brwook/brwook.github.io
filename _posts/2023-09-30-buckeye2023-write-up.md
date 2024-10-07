@@ -4,7 +4,7 @@ title: "BuckeyeCTF 2023 Pwnable Write up"
 date: 2023-10-02 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
-img_path: 20231002_buckeye_write-up
+media_subpath: /assets/img/20231002_buckeye_write-up
 image: 1.jpg
 ---
 

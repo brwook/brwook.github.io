@@ -4,7 +4,7 @@ title: "POC2023 컨퍼런스 후기"
 date: 2023-12-16 10:00:00 +0900
 categories: [Review]
 tags: [POC, Conference, review]
-img_path: 20231106_poc_review
+media_subpath: /assets/img/20231106_poc_review
 image: 2.jpg
 ---
 

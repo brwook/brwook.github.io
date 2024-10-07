@@ -4,7 +4,7 @@ title: "vsCTF 2023 Pwnable Write up"
 date: 2023-09-25 02:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
-img_path: 20230925_vsctf_write-up
+media_subpath: /assets/img/20230925_vsctf_write-up
 image: 0.jpg
 ---
 

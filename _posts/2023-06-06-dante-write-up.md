@@ -4,7 +4,7 @@ title: "[DanteCTF 2023] Infernal Break Write up"
 date: 2023-06-06 01:40:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, Container, pwnable]
-img_path: 20230606_dantectf_write-up
+media_subpath: /assets/img/20230606_dantectf_write-up
 image: 0.png
 ---
 

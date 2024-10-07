@@ -4,7 +4,7 @@ title: "[UTCTF 2023] Sandbox write-up"
 date: 2023-03-30 18:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, Unicorn, BOF]
-img_path: 2023-03-30_sandbox
+media_subpath: /assets/img/2023-03-30_sandbox
 ---
 
 ## [0x00] 요약

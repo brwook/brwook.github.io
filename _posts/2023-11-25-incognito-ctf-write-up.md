@@ -4,7 +4,7 @@ title: "2023 INC0GNITO CTF Qual - Pwnable Write up"
 date: 2023-11-25 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, OOB, tcache]
-img_path: 20231125_INCOGNITO_write-up
+media_subpath: /assets/img/20231125_INCOGNITO_write-up
 image: 1.jpg
 ---
 

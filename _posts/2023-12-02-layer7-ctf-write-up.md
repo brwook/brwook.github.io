@@ -4,7 +4,7 @@ title: "2023 Layer7 CTF - Pwnable Write up"
 date: 2023-12-02 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, BOF, FSB, kernel, Race Condition]
-img_path: 20231202_Layer7-CTF_write-up
+media_subpath: /assets/img/20231202_Layer7-CTF_write-up
 image: 1.jpg
 ---
 

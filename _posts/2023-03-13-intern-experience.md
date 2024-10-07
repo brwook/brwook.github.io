@@ -4,7 +4,7 @@ title: "3학년 겨울방학 CTI 기업 인턴십 후기"
 date: 2023-03-13 01:00:00 +0900
 categories: [Review]
 tags: [CTI, AI Spera, intern]
-img_path: 2023-03-13-aispera
+media_subpath: /assets/img/2023-03-13-aispera
 ---
 
 ![sejong univ](2_sejong.jpg)

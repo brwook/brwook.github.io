@@ -4,7 +4,7 @@ title: "BRICS+ CTF Quals 2024 - Pwnable Write up"
 date: 2024-10-07 06:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, OOB, tcache, kernel, UAF]
-img_path: 20241007_brics-quals-write-up
+media_subpath: /assets/img/20241007_brics-quals-write-up
 image: logo.png
 ---
 

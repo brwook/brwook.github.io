@@ -4,7 +4,7 @@ title: "BlackHat MEA CTF Final 2023 - Pwnable Write up"
 date: 2023-12-29 20:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, OOB, tcache, FSB, FSOP, BOF, seccomp, UAF, shellcoding]
-img_path: 20231229_blackhat_mea-write-up
+media_subpath: /assets/img/20231229_blackhat_mea-write-up
 image: 1.png
 ---
 

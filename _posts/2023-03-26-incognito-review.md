@@ -4,7 +4,7 @@ title: "Incognito 2022 Hacking Conference 후기"
 date: 2023-03-26 22:00:00 +0900
 categories: [Review]
 tags: [CTF, Conference, review]
-img_path: 2023-03-26-incognito
+media_subpath: /assets/img/2023-03-26-incognito
 ---
 
 ![poster](1.jpg)

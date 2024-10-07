@@ -4,7 +4,7 @@ title: "[논문요약] Git-based CTF: A Simple and Effective Approach to Organiz
 date: 2023-06-15 05:56:00 +0900
 categories: [Security, Paper]
 tags: [paper, CTF, git]
-img_path: 20230615_git-based-ctf
+media_subpath: /assets/img/20230615_git-based-ctf
 image: 0.jpg
 ---
 

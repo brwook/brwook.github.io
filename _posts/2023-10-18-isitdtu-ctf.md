@@ -4,7 +4,7 @@ title: "ISITDTU CTF 2023 Quals Pwnable Write up"
 date: 2023-10-18 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, strncpy, mysql]
-img_path: 20231109_ISITDTU_write-up
+media_subpath: /assets/img/20231109_ISITDTU_write-up
 image: 1.jpeg
 ---
 

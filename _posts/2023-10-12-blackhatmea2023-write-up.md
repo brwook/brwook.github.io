@@ -4,7 +4,7 @@ title: "BlackHat MEA CTF Qualification 2023 Pwnable Write up"
 date: 2023-10-12 23:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
-img_path: 20231106_blackhat_mea
+media_subpath: /assets/img/20231106_blackhat_mea
 image: 1.png
 ---
 

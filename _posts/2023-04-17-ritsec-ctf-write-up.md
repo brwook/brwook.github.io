@@ -4,7 +4,7 @@ title: "[RITSEC CTF 2023] Write up"
 date: 2023-04-17 23:40:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux]
-img_path: 20230417_ritsec_write-up
+media_subpath: /assets/img/20230417_ritsec_write-up
 ---
 
 Security Factorial 팀원들과 함께 대회를 매주 하고 있는데, 4월 1일에는 RITSEC CTF 2023에 참여하였다. 그중에서 못 풀었던 포너블 문제 2개를 가지고 왔다. 다음에는 웹이나 리버싱에서 못 푼 문제도 라업에 포함시키는 방식으로 하면 더 좋을 것 같다.

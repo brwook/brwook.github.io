@@ -4,7 +4,7 @@ title: "[UTCTF 2023] Printfail write-up"
 date: 2023-03-28 15:00:00 +0900
 categories: [Security, CTF]
 tags: [CTF, linux, FSB]
-img_path: 2023-03-29-printfail
+media_subpath: /assets/img/2023-03-29-printfail
 ---
 
 ## [0x00] 요약
