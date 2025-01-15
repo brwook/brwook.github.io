@@ -5,6 +5,7 @@ date: 2022-08-26 21:35:00 +0900
 categories: [Life]
 tags: [graduate school, military]
 media_subpath: /assets/img/
+published: false
 ---
 
 ![rank](0826-about-graduate-school/1_book.jpg){: width="50%" height="50%"}

@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: brwook # the main title
 
-tagline: Security Factorial of Sejong Univ., KITRI BoB 10th # it will display as the sub-title
+tagline: Pwner, CTF player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   vulnerability, security, information security, cve, CTF

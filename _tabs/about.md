@@ -13,7 +13,7 @@ order: 4
 
 ---
 
-- **M.S. in Computer Science and Engineering** (Mar. 2024 ~ Present)
+- **M.S. in Computer Science and Engineering** @ **[PWNLAB](https://pwnlab.kr/)** (Mar. 2024 ~ Present)
   - Kyung Hee University at Gyeonggi-do, Korea
 
 - **B.S. in Computer & Information Security** (Mar. 2020 ~ Feb. 2024)
@@ -66,7 +66,11 @@ order: 4
 
 ---
 
+**2025**
+- UofTCTF 2025 / 🥉 (Team. DeadSec)
+
 **2024**
+- ISITDTU CTF 2024 Finals / 🥇 (Team. epic merger)
 - Cyber Conflict Exercise 2024 Quals / 12th (Team. Security Factorial)
 - Codegate CTF 2024 Preliminary / 37th (Team. 경희대미남해커들)
 - Dreamhack Invitational 2024 Finals / 13th (Indiv.)
@@ -75,8 +79,8 @@ order: 4
 
 **2023**
 - Cyber Conflict Exercise 2023 Quals / 23th (Team. Security Factorial)
-- **Codegate CTF 2023 Preliminary / 11th** (Team. Security Factorial)
-- **Codegate CTF 2023 Final / 6th** (Team. Security Factorial)
+- Codegate CTF 2023 Preliminary / 11th (Team. Security Factorial)
+- Codegate CTF 2023 Final / 6th (Team. Security Factorial)
 - ISITDTU CTF 2023 Finals / 7th (Team. cr3.mov)
 - 2023 Layer7 CTF / 🥈 (Indiv.) [⌨️ COX CK01 PBT Keyboards]
 
