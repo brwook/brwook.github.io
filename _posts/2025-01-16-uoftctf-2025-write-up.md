@@ -18,7 +18,9 @@ Among them, I want to write down the last one.
 
 **[0x01] Summary**
 
-- 
+- Utilized negative indexing on `hashTables` to achieve AAR/AAW primitive.
+- Leveraged heap manipulation techniques to leak heap and libc addresses, then obtained a stack leak using AAR.
+- Injected a ROP chain on stack and spawn a shell.
 
 **[0x02] Solution**
 
@@ -140,7 +142,6 @@ def get_ht_brute(idx, key):
     p.sendline(str(key).encode())
 
 p = process(aslr=0)
-# p = remote('34.162.33.160', 5000)
 # p = remote('localhost', 5000)
 
 # 1. heap leak through same size with the offset
